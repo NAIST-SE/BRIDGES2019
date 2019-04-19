@@ -10,7 +10,6 @@ The workshop encourages the exchange of ideas within the local and international
 - Raula Gaikovina Kula (Nara Institute of Science and Technology)
 - Christoph Truede (Adelaide University)
 - Hideaki Hata (Nara Institute of Science and Technology)
-- Kenichi Matsumoto (Nara Institute of Science and Technology)
 
 Due to limited space availability, attendance at the workshop is by invitation only.
 
