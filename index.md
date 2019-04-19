@@ -14,7 +14,7 @@ The workshop encourages the exchange of ideas within the local and international
 Due to limited space availability, attendance at the workshop is by invitation only.
 
 ## Venue
-BRIDGES2019 will take place at a conference room at the Motupore Island Research Center, an island off the coast of Port Moresby which is the capital of the pacific nation, Papua New Guinea (PNG). Known as the land of the unexpected, local speak over 850 languages and have a diverse culture, flora and fauna (like the Bird of Paradise and rare species of Orcids), making PNG one of the last untouched locations on the planet. With the country's independence looming on September 16th, we expect the area to be buzzing with pacific style culture and experiences. 
+BRIDGES2019 will take place at a conference room at the Motupore Island Research Center, an island off the coast of Port Moresby which is the capital of the Pacific nation, Papua New Guinea (PNG). Known as the land of the unexpected, local speak over 850 languages and have a diverse culture, flora and fauna (like the Bird of Paradise and rare species of Orcids), making PNG one of the last untouched locations on the planet. With the country's independence looming on September 16th, we expect the area to be buzzing with pacific style culture and experiences. 
 
 To get to Port Moresby, the national airline, Air Niugini, operate weekly direct flights from the capital city to many domestic and international destinations including Singapore, Tokyo, Sydney, and Hong Kong. A visa is required to visit PNG, though passport holders from many countries are eligible for a 60-day visa on arrival for free at Port Moresby airport. 
 
