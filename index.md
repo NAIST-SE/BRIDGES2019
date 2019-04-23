@@ -1,3 +1,4 @@
+![Photo]("/img/background.jpg")
 ### 12th - 14th September 2019
 # First International Workshop on BRIdging the Divides with Globally Engineered Software (BRIDGES2019)
 
