@@ -1,5 +1,6 @@
 <img src="img/background.jpg" alt="hi" class="inline"/>
 ### 12th - 14th September 2019
+
 **First International Workshop on BRIdging the Divides with Globally Engineered Software (BRIDGES2019)**
 
 ## About
