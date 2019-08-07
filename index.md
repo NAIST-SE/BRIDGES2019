@@ -27,6 +27,12 @@ Session | Details
 morning (9.30am - 12pm)| Welcome addresses from government officials, industry, and educators as well as introduction of the workshop theme.
 afternoon (2pm - 4.30pm)| Invited talks by international researchers.
 
+**DAY 2 - Motupore Island Research Center: Conference Room.
+
+Session | Details
+------------ | -------------
+morning (9.30am - 12pm))| Recap discussions from Day 1 and design of breakout sessions.
+
 **DAY 3 - Motupore Island Research Center: Conference Room.
 
 Session | Details
