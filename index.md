@@ -15,7 +15,7 @@ The workshop encourages the exchange of ideas within the local and international
 - John Genolagani (Local, University of Papua New Guinea)
 - Sharon Torao-Pingi (Local, University of Papua New Guinea)
 
-Due to limited space availability, attendance at the workshop is by invitation only.
+Due to limited space availability, DAY2 and DAY3 attendance at the workshop is by invitation only.
 
 ## Venue
 BRIDGES2019 will take place at a conference room at the University of Papua New Guinea (UPNG), Waigani Campus (Day 1) and Motupore Island Research Center (Day 3), which is located on an island off the coast of Port Moresby, capital of Pacific nation, Papua New Guinea (PNG). Known as the land of unexpected, locals speak over 850 languages and have a diverse culture, flora and fauna (like the Bird of Paradise and the world's largest butterfly, the Queen Alexandra Birdwing), making PNG one of the last untouched locations on the planet. With independence day looming on September 16th, we expect the area to be buzzing with pacific-style culture and experiences. 
@@ -32,7 +32,7 @@ afternoon (2pm - 4.30pm)| Invited talks by international researchers.
 
 Session | Details
 ------------ | -------------
-morning (9.30am - 12pm))| Recap discussions from Day 1 and design of breakout sessions.
+morning (9.30am - 12pm)| Recap discussions from Day 1 and design of breakout sessions.
 
 **DAY 3 - Motupore Island Research Center: Conference Room.**
 
