@@ -8,6 +8,16 @@ The objective of the International Workshop on BRIdging Divides with Globally En
 
 The workshop encourages the exchange of ideas within the local and international community with its ultimate goal to make software engineering universal; for anyone, anywhere, without any technical, cultural and educational boundaries. This involves a round-table discussion with invited talks from both local and international participants.
 
+## Participants (Speakers)
+- [NAIST President Mr. Yokoya, Japan](http://www.naist.jp/en/about_naist/president/profile.html)
+- [Marco Aurelio Gerosa, Northen Arizona University, USA](https://www.ime.usp.br/~gerosa/)
+- [Igor Steinmacher, Northen Arizona University, USA](https://nau.edu/school-of-informatics-computing-and-cyber-systems/faculty/igor-steinmacher/) 
+- [Sebastian Baltes, University of Adelaide Australia](https://empirical-software.engineering/) 
+- [Raula Gaikovina Kula, NAIST Japan](https://raux.github.io/)
+- [Christoph Treude, University of Adelaide Australia](http://ctreude.ca/)
+- [Hideaki Hata,NAIST Japan](http://isw3.naist.jp/~hata/)
+
+
 ## Organizers 
 - Raula Gaikovina Kula (Organizer, Nara Institute of Science and Technology)
 - Christoph Treude (Organizer, University of Adelaide)
