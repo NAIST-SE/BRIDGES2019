@@ -48,13 +48,13 @@ Session | Details
 ------------ | -------------
 morning (9.30am - 12:00pm)| Welcome addresses from government officials, industry, and educators as well as introduction of the workshop theme.
 .. |  Opening Talk (President Yokoya)
-.. |  Theme of BRIDGES19 (Organizing - Raula Gaikovina Kula)
+.. |  Theme of BRIDGES19 (Organizing - Prof. Raula Gaikovina Kula)
 .. |  ICT Industry Rep
 .. |  Education Rep
 afternoon (2:00pm - 4.30pm)| Invited talks by International Researchers.
-.. |  Chatbots (Dr. Marco Aurelio Gerosa)
-.. |  Diversity and Social Aspects of Open Source Software Communities (Dr. Igor Steinmacher)
-.. |  Software Developers' Work Habits and Expertise (Dr. Sebastian Baltes)
+.. |  Chatbots (Prof. Marco Aurelio Gerosa)
+.. |  Diversity and Social Aspects of Open Source Software Communities (Prof. Igor Steinmacher)
+.. |  Software Developers' Work Habits and Expertise (Prof. Sebastian Baltes)
 
 **DAY 2 - Motupore Island Research Center: Conference Room.**
 
