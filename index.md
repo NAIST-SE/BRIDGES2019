@@ -46,10 +46,10 @@ BRIDGES2019 will take place at a conference room at the University of Papua New 
 
 Session | Details
 ------------ | -------------
-morning (9.30am - 12pm)| Welcome addresses from government officials, industry, and educators as well as introduction of the workshop theme.
+morning (9.30am - 12:00pm)| Welcome addresses from government officials, industry, and educators as well as introduction of the workshop theme.
 .. |  **Opening Talk** (President Yokoya)
 .. |  **Theme of BRIDGES** (Organizing - Raula Gaikovina Kula)
-afternoon (2pm - 4.30pm)| Invited talks by International Researchers.
+afternoon (2:00pm - 4.30pm)| Invited talks by International Researchers.
 .. |  **Chatbots** (Dr. Marco Aurelio Gerosa)
 .. |  **Diversity and social aspects of open source software communities** (Dr. Igor Steinmacher)
 .. |  **Software Developers' Work Habits and Expertise** (Dr. Sebastian Baltes)
@@ -64,9 +64,9 @@ morning (9.30am - 10:30am)| Recap discussions from Day 1 and design of breakout 
 
 Session | Details
 ------------ | -------------
-morning (9.30am - 12pm)| Breakout groups to discuss unique challenges for software engineering students, educators, and industry in Papua New Guinea
-afternoon (2pm - 4.30pm) | Breakout groups to discuss potential solutions to the challenges
-wrap-up (5pm - 5.30pm) | Wrap-up and plans for the next instance of BRIDGES
+morning (9.30am - 12:00pm)| Breakout groups to discuss unique challenges for software engineering students, educators, and industry in Papua New Guinea
+afternoon (2:00pm - 4.30pm) | Breakout groups to discuss potential solutions to the challenges
+wrap-up (5:00pm - 5.30pm) | Wrap-up and plans for the next instance of BRIDGES
 
 ## Travel
 To get to Port Moresby, the national airline, Air Niugini, operate weekly direct flights from the capital city to many domestic and international destinations including Singapore, Tokyo, Sydney, Brisbane, Cairns, Manila and Hong Kong. A visa is required to visit PNG, though passport holders from many countries are eligible for a 60-day visa on arrival for free at Port Moresby airport. 
