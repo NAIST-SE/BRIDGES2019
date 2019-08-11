@@ -47,12 +47,12 @@ BRIDGES2019 will take place at a conference room at the University of Papua New 
 Session | Details
 ------------ | -------------
 morning (9.30am - 12:00pm)| Welcome addresses from government officials, industry, and educators as well as introduction of the workshop theme.
-.. |  **Opening Talk** (President Yokoya)
-.. |  **Theme of BRIDGES** (Organizing - Raula Gaikovina Kula)
+.. |  Opening Talk (President Yokoya)
+.. |  Theme of BRIDGES19 (Organizing - Raula Gaikovina Kula)
 afternoon (2:00pm - 4.30pm)| Invited talks by International Researchers.
-.. |  **Chatbots** (Dr. Marco Aurelio Gerosa)
-.. |  **Diversity and social aspects of open source software communities** (Dr. Igor Steinmacher)
-.. |  **Software Developers' Work Habits and Expertise** (Dr. Sebastian Baltes)
+.. |  Chatbots (Dr. Marco Aurelio Gerosa)
+.. |  Diversity and Social Aspects of Open Source Software Communities (Dr. Igor Steinmacher)
+.. |  Software Developers' Work Habits and Expertise (Dr. Sebastian Baltes)
 
 **DAY 2 - Motupore Island Research Center: Conference Room.**
 
