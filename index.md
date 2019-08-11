@@ -19,6 +19,15 @@ The workshop encourages the exchange of ideas within the local and international
 - Prof. Kenichi Matsumoto, NAIST Japan
 - Mr. Goro Watanabe, NAIST Japan
 
+## Local Participants
+- University of Papua New Guinea
+- Papua New Guinea Science and Technology Secretariat
+- Papua New Guinea Digital Cluster
+- Kina Bank
+- STEM
+- Pacific Adventist University
+- National High Schools
+
 
 ## Organizers 
 - Raula Gaikovina Kula (Organizer, Nara Institute of Science and Technology)
