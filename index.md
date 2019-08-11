@@ -15,7 +15,9 @@ The workshop encourages the exchange of ideas within the local and international
 - [Sebastian Baltes, University of Adelaide Australia](https://empirical-software.engineering/) 
 - [Raula Gaikovina Kula, NAIST Japan](https://raux.github.io/)
 - [Christoph Treude, University of Adelaide Australia](http://ctreude.ca/)
-- [Hideaki Hata,NAIST Japan](http://isw3.naist.jp/~hata/)
+- [Hideaki Hata, NAIST Japan](http://isw3.naist.jp/~hata/)
+- Kenichi Matsumoto, NAIST Japan
+- Goro Watanabe, NAIST Japan
 
 
 ## Organizers 
