@@ -69,6 +69,8 @@ morning (9.30am - 12:00pm)| Breakout groups to discuss unique challenges for sof
 afternoon (2:00pm - 4.30pm) | Breakout groups to discuss potential solutions to the challenges
 wrap-up (5:00pm - 5.30pm) | Wrap-up and plans for the next instance of BRIDGES
 
+[## Talks](talks.md)
+
 ## Travel
 To get to Port Moresby, the national airline, Air Niugini, operate weekly direct flights from the capital city to many domestic and international destinations including Singapore, Tokyo, Sydney, Brisbane, Cairns, Manila and Hong Kong. A visa is required to visit PNG, though passport holders from many countries are eligible for a 60-day visa on arrival for free at Port Moresby airport. 
 
