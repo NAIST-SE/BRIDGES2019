@@ -10,12 +10,12 @@ The workshop encourages the exchange of ideas within the local and international
 
 ## International Participants
 - [President Yokoya, NAIST Japan](http://www.naist.jp/en/about_naist/president/profile.html) 
-- [Dr. Marco Aurelio Gerosa, Northen Arizona University, USA](https://www.ime.usp.br/~gerosa/) 
-- [Dr. Igor Steinmacher, Northen Arizona University, USA](https://nau.edu/school-of-informatics-computing-and-cyber-systems/faculty/igor-steinmacher/) 
-- [Dr. Sebastian Baltes, University of Adelaide Australia](https://empirical-software.engineering/) 
-- [Dr. Raula Gaikovina Kula, NAIST Japan](https://raux.github.io/)
-- [Dr. Christoph Treude, University of Adelaide Australia](http://ctreude.ca/)
-- [Dr. Hideaki Hata, NAIST Japan](http://isw3.naist.jp/~hata/)
+- [Prof. Marco Aurelio Gerosa, Northen Arizona University, USA](https://www.ime.usp.br/~gerosa/) 
+- [Prof. Igor Steinmacher, Northen Arizona University, USA](https://nau.edu/school-of-informatics-computing-and-cyber-systems/faculty/igor-steinmacher/) 
+- [Prof. Sebastian Baltes, University of Adelaide Australia](https://empirical-software.engineering/) 
+- [Prof. Raula Gaikovina Kula, NAIST Japan](https://raux.github.io/)
+- [Prof. Christoph Treude, University of Adelaide Australia](http://ctreude.ca/)
+- [Prof. Hideaki Hata, NAIST Japan](http://isw3.naist.jp/~hata/)
 - Prof. Kenichi Matsumoto, NAIST Japan
 - Mr. Goro Watanabe, NAIST Japan
 
@@ -51,7 +51,7 @@ morning (9.30am - 12:00pm)| Welcome addresses
 .. |  Theme of BRIDGES19 (Organizing - Prof. Raula Gaikovina Kula)
 .. |  Talks from government officials, industry, and educators
 afternoon (2:00pm - 4.30pm)| Invited talks by International Researchers.
-.. |  Chatbots (Prof. Marco Aurelio Gerosa)
+.. |  Designing appropriate chatbots for tourism and software development (Prof. Marco Aurelio Gerosa)
 .. |  Diversity and Social Aspects of Open Source Software Communities (Prof. Igor Steinmacher)
 .. |  Software Developers' Work Habits and Expertise (Prof. Sebastian Baltes)
 
