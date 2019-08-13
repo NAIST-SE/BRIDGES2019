@@ -69,7 +69,32 @@ morning (9.30am - 12:00pm)| Breakout groups to discuss unique challenges for sof
 afternoon (2:00pm - 4.30pm) | Breakout groups to discuss potential solutions to the challenges
 wrap-up (5:00pm - 5.30pm) | Wrap-up and plans for the next instance of BRIDGES
 
-[## Talks](talks.md)
+## International Talks
+<img align="right" height="200" src="https://www.ime.usp.br/~gerosa/images/Marco_Gerosa.jpg">
+
+**Designing appropriate chatbots for tourism and software development**
+
+Abstract: Chatbots promote new forms of human-computer interaction; however, user satisfaction is frequently low. The investigation of social aspects is often neglected, even though people expect chatbots to reflect social and conversational protocols. For instance, little is known about how to conform chatbots’ utterances to their social role in an interactional situation. The sole use of standard sentences frequently leads to communication breakdowns and violates users’ expectations. In this research, we are investigating how to conceive and evaluate a linguistic-based approach for enriching chatbots’ utterances. We will build a corpus of conversation logs of tourists interacting with tour guides, analyze this corpus to identify registers, adapt chatbot utterances to those specific registers, and evaluate the extent to which this strategy achieves register-specific language functions, meets users’ expectations, and coheres with the expected social role of a tour guide. Moreover, we are investigating how GitHub projects use bots and chatbots in order to design an appropriate bot for reviewing pull-requests.
+
+Marco Gerosa’s research lies in the intersection between Software Engineering and Social Computing, focusing on the fields of empirical software engineering, mining software repositories, software evolution, and social dimensions of software development. He receives productivity fellowship from the Brazilian Council for Scientific and Technological Development. In addition to his research, he also coordinates award-winning open source projects.
+
+<img align="right" height="200" src="https://nau.edu/school-of-informatics-computing-and-cyber-systems/wp-content/uploads/sites/34/IgorSteinmacher-1-e1563305815378.jpg">
+
+**Diversity and social aspects of open source software communities**
+
+Abstract: The web, your desktop, smartphones, your car: almost everything high-tech depends on open source these days. Interestingly, open source is more than a technical environment, it is an open collaboration endeavor in which developers from all over the globe work together towards developing high-quality software products. In such an environment, sustainability and long-term success are usually related to having a diverse and welcoming environment. In this talk, I will talk about how the community works in terms of governance, and discuss onboarding and diversity in open source communities.
+
+Igor Steinmacher obtained a Ph.D. in Computer Science at the University of São Paulo in 2015. Currently, he is an Assistant Professor at the School of Informatics, Computing and Cyber Systems at Northern Arizona University. He has been studying Open Source Communities for 10 years, with special focus on supporting newcomers onboarding to Open Source projects. His research interests include Human Aspects of Open Source Software Communities, Diversity in Software Engineering, Mining Software Repositories, and Social Network Analysis.  
+
+<img align="right" height="200"  src="https://empirical-software.engineering/assets/images/sebastian.jpg">
+
+**Software Developers' Work Habits and Expertise**
+
+Abstract: Analyzing and understanding software developers' work habits and resulting needs is an essential prerequisite to improve software development practice. This talk outlines how we utilized different qualitative and quantitative research methods to empirically investigate three underexplored aspects of software development: First, we describe how software developers use sketches and diagrams in their daily work and derive requirements for better tool support. Then, we explore to what degree developers copy code from the popular online platform Stack Overflow without adhering to license requirements and motivate why this behavior may lead to legal issues for affected open source software projects. Finally, we present a novel theory of software development expertise and identify factors fostering or hindering the formation of such expertise.
+
+Sebastian Baltes is a Lecturer in the School of Computer Science at the University of Adelaide, Australia. He received his PhD degree in Computer Science from the University of Trier, Germany. In his research, he empirically analyses software developers' work habits to identify requirements for new tools and point to possible tool and process improvements. For him, thoroughly analysing and understanding the state-of-practice is an essential first step towards improving how software is being developed. Too often, decisions are still rather opinion-based than data-informed. His long-term goal is to bridge the gap between empirical research and practice, both by studying relevant phenomena and by communicating the results back to practitioners.
+
+
 
 ## Travel
 To get to Port Moresby, the national airline, Air Niugini, operate weekly direct flights from the capital city to many domestic and international destinations including Singapore, Tokyo, Sydney, Brisbane, Cairns, Manila and Hong Kong. A visa is required to visit PNG, though passport holders from many countries are eligible for a 60-day visa on arrival for free at Port Moresby airport. 
