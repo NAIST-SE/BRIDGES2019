@@ -59,7 +59,7 @@ afternoon (2:00pm - 4.30pm)| Invited talks by International Researchers.
 
 Session | Details
 ------------ | -------------
-morning (9.30am - 10:30am)| Recap discussions from Day 1 and design of breakout sessions.
+morning (9.30am - 10:30am)| Recap discussions from Day 1 for Day 3.
 
 **DAY 3 - Motupore Island Research Center: Conference Room.**
 
