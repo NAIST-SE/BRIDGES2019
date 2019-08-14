@@ -19,7 +19,7 @@ The workshop encourages the exchange of ideas within the local and international
 - Prof. Kenichi Matsumoto, NAIST Japan
 - Mr. Goro Watanabe, NAIST Japan
 
-## Local Participants
+## Local Participation
 - University of Papua New Guinea
 - Papua New Guinea Science and Technology Secretariat
 - Papua New Guinea Digital Cluster
