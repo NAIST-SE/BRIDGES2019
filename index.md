@@ -104,3 +104,11 @@ To get to Port Moresby, the national airline, Air Niugini, operate weekly direct
 
 
 Papua New Guinea used to be lesser-known to the world, but now it's rapidly opening up to more intrepid travelers with its unique topography and enchanting natural scenery.  
+
+
+## Supporters
+
+<p float="right">
+  <img src="http://www.percom.org/Previous/ST2019/sites/default/files/inline-images/naist.jpg" width="200" /> 
+  <img src="http://www.upng.ac.pg/site/images/upngweb_image/upngLogo.png" width="200" />
+</p>
