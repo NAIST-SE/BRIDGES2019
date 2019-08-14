@@ -46,11 +46,10 @@ BRIDGES2019 will take place at a conference room at the University of Papua New 
 
 Session | Details
 ------------ | -------------
-morning (9.30am - 12:00pm)| Welcome addresses 
-.. |  Opening Talk (President Yokoya)
-.. |  Opening Talk (Vice-Chancellor UPNG)
+morning (9.30am - 12:30pm)| Welcome addresses 
+.. |  Opening Talk (President Yokoya, Vice-Chancellor UPNG)
 .. |  Theme of BRIDGES19 (Organizing - Prof. Raula Gaikovina Kula)
-.. |  Talks from government officials, industry, and educators
+.. |  Talks from government officials, industry
 afternoon (2:00pm - 4.30pm)| Invited talks by International Researchers.
 .. |  Designing appropriate chatbots for tourism and software development (Prof. Marco Aurelio Gerosa)
 .. |  Diversity and Social Aspects of Open Source Software Communities (Prof. Igor Steinmacher)
