@@ -48,6 +48,7 @@ Session | Details
 ------------ | -------------
 morning (9.30am - 12:00pm)| Welcome addresses 
 .. |  Opening Talk (President Yokoya)
+.. |  Opening Talk (Vice-Chancellor UPNG)
 .. |  Theme of BRIDGES19 (Organizing - Prof. Raula Gaikovina Kula)
 .. |  Talks from government officials, industry, and educators
 afternoon (2:00pm - 4.30pm)| Invited talks by International Researchers.
