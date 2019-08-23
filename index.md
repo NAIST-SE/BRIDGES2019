@@ -40,7 +40,7 @@ The workshop encourages the exchange of ideas within the local and international
 Due to limited space availability, DAY2 and DAY3 attendance at the workshop is by invitation only.
 
 ## Venue
-BRIDGES2019 will take place at a conference room at the University of Papua New Guinea (UPNG), Waigani Campus (Day 1) and Motupore Island Research Center (Day 3), which is located on an island off the coast of Port Moresby, capital of Pacific nation, Papua New Guinea (PNG). Known as the land of unexpected, locals speak over 850 languages and have a diverse culture, flora and fauna (like the Bird of Paradise and the world's largest butterfly, the Queen Alexandra Birdwing), making PNG one of the last untouched locations on the planet. With independence day looming on September 16th, we expect the area to be buzzing with pacific-style culture and experiences. 
+BRIDGES2019 will take place at the International Conference Center (Day 1) and Motupore Island Research Center (Day 3), which is located on an island off the coast of Port Moresby, capital of Pacific nation, Papua New Guinea (PNG). Known as the land of unexpected, locals speak over 850 languages and have a diverse culture, flora and fauna (like the Bird of Paradise and the world's largest butterfly, the Queen Alexandra Birdwing), making PNG one of the last untouched locations on the planet. With independence day looming on September 16th, we expect the area to be buzzing with pacific-style culture and experiences. 
 
 ## Overview of Program
 **DAY 1 - International Conference Center (ICC).**
