@@ -10,7 +10,7 @@ The objective of the International Workshop on BRIdging Divides with Globally En
 The workshop encourages the exchange of ideas within the local and international community with its ultimate goal to make software engineering universal; for anyone, anywhere, without any technical, cultural and educational boundaries. This involves a round-table discussion with invited talks from both local and international participants.
 
 ## International Participants
-- [President Yokoya, NAIST Japan](http://www.naist.jp/en/about_naist/president/profile.html) 
+- [President/Professor Yokoya, NAIST Japan](http://www.naist.jp/en/about_naist/president/profile.html) 
 - [Prof. Marco Aurelio Gerosa, Northen Arizona University, USA](https://www.ime.usp.br/~gerosa/) 
 - [Prof. Igor Steinmacher, Northen Arizona University, USA](https://nau.edu/school-of-informatics-computing-and-cyber-systems/faculty/igor-steinmacher/) 
 - [Prof. Sebastian Baltes, University of Adelaide Australia](https://empirical-software.engineering/) 
@@ -48,7 +48,7 @@ BRIDGES2019 will take place at a conference room at the University of Papua New 
 Session | Details
 ------------ | -------------
 morning (9.30am - 12:30pm)| Welcome addresses 
-.. |  Opening Talk (President Yokoya, Vice-Chancellor UPNG)
+.. |  Opening Talk (President/Prof. Yokoya, Vice-Chancellor UPNG)
 .. |  Theme of BRIDGES19 (Organizing - Prof. Raula Gaikovina Kula)
 .. |  Talks from government officials, industry
 afternoon (2:00pm - 4.30pm)| Invited talks by International Researchers.
