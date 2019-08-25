@@ -34,6 +34,7 @@ The workshop encourages the exchange of ideas within the local and international
 - Christoph Treude (Organizer, University of Adelaide)
 - Hideaki Hata (Organizer, Nara Institute of Science and Technology)
 - John Genolagani (Local, University of Papua New Guinea)
+- William Tapio (Local, University of Papua New Guinea)
 - Sharon Torao-Pingi (Local, University of Papua New Guinea)
 
 Due to limited space availability, DAY2 and DAY3 attendance at the workshop is by invitation only.
