@@ -109,6 +109,8 @@ Papua New Guinea used to be lesser-known to the world, but now it's rapidly open
 
 ## Supporters
 
+Our event is proudly sponsored by the PNG Science and Technology Council Secretariat.
+
 <p float="right">
   <img src="http://www.percom.org/Previous/ST2019/sites/default/files/inline-images/naist.jpg" width="200" /> 
   <img src="http://www.upng.ac.pg/site/images/upngweb_image/upngLogo.png" width="200" />
