@@ -56,7 +56,7 @@ Session | Details
 ------------ | -------------
 10:00 - 10:30 | Break (Group Photo)
 ------------ | -------------
-10:30 - 12:30 | Welcome
+10:30 - 12:30 | PNG ICT Overview
 .. | PNG DataCo Ltd - Mr. Paul Komboi, MD (Industry)
 .. | Kina Bank Ltd - Ms Lena Korugl (Industry Talk)
 .. | National Science & Technology Council - Prof Teatulohi Matainaho, CEO (Government)
