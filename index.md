@@ -46,20 +46,20 @@ BRIDGES2019 will take place at the International Conference Center (Day 1) and M
 **DAY 1 - International Conference Center (ICC).**
 
 Session | Details
------------- | -------------
+-------------- | -------------
 8:00 - 9:00 | Registration
------------- | -------------
+-------------- | ---------------
 9:00 - 10:00 | Welcome
-.. | UPNG Vice Chancellor - Prof. Frank G. Griffin, PhD (Welcome Address)
-.. | NAIST President - Prof. Naokazu Yokoya, PhD (Welcome Statement)
-..| Organizing - Prof. Raula Gaikovina Kula (Theme BRIDGES2019 )
+Welcome Address | UPNG Vice Chancellor - Prof. Frank G. Griffin, PhD
+Welcome Statement | NAIST President - Prof. Naokazu Yokoya, PhD
+Theme BRIDGES2019 | Organizing - Prof. Raula Gaikovina Kula
 ------------ | -------------
 10:00 - 10:30 | Break (Group Photo)
 ------------ | -------------
-10:30 - 12:30 | PNG ICT Overview
-.. | PNG DataCo Ltd - Mr. Paul Komboi, MD (Industry)
-.. | Kina Bank Ltd - Ms Lena Korugl (Industry Talk)
-.. | National Science & Technology Council - Prof Teatulohi Matainaho, CEO (Government)
+10:30 - 12:30 | Welcome
+Industry Talk | PNG DataCo Ltd - Mr. Paul Komboi, MD 
+Industry Talk | Kina Bank Ltd - Ms Lena Korugl
+PNG Government | National Science & Technology Council - Prof Teatulohi Matainaho, CEO
 ------------ | -------------
 12:30 - 1:30 | LUNCH 
 ------------ | -------------
@@ -131,7 +131,7 @@ Papua New Guinea used to be lesser-known to the world, but now it's rapidly open
 
 ## Supporters
 
-Our event is proudly sponsored by the PNG Science and Technology Council Secretariat.
+Our event is proudly sponsored by Oil Search, PNG DataCo, PNG Science and Technology Council Secretariat, Nasfund Papua New Guinea and PNG Digital ICT Cluster.
 
 <p float="right">
   <img src="http://www.percom.org/Previous/ST2019/sites/default/files/inline-images/naist.jpg" width="200" /> 
