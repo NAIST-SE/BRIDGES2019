@@ -47,14 +47,36 @@ BRIDGES2019 will take place at the International Conference Center (Day 1) and M
 
 Session | Details
 ------------ | -------------
-morning (9.30am - 12:30pm)| Welcome addresses 
-.. |  Opening Talk (President/Prof. Yokoya, Vice-Chancellor UPNG)
-.. |  Theme of BRIDGES19 (Organizing - Prof. Raula Gaikovina Kula)
-.. |  Talks from government officials, industry
-afternoon (2:00pm - 4.30pm)| Invited talks by International Researchers.
+8:00 - 9:00 | Registration
+------------ | -------------
+9:00 - 10:00 | Welcome
+Welcome Address | UPNG Vice Chancellor - Prof. Frank G. Griffin, PhD
+Welcome Statement | NAIST President - Prof. Naokazu Yokoya, PhD
+Theme BRIDGES2019 | Organizing - Prof. Raula Gaikovina Kula
+------------ | -------------
+10:00 - 10:30 | Break (Group Photo)
+------------ | -------------
+10:30 - 12:30 | Welcome
+Industry Talk | PNG DataCo Ltd - Mr. Paul Komboi, MD 
+Industry Talk | Kina Bank Ltd - Ms Lena Korugl
+PNG Government | National Science & Technology Council - Prof Teatulohi Matainaho, CEO
+------------ | -------------
+12:30 - 1:30 | LUNCH 
+------------ | -------------
+1:30 - 3:00 | International SE Talks I
+------------ | -------------
 .. |  Designing appropriate chatbots for tourism and software development (Prof. Marco Aurelio Gerosa)
 .. |  Diversity and Social Aspects of Open Source Software Communities (Prof. Igor Steinmacher)
+------------ | -------------
+3:00 - 3:30 | Break 
+------------ | -------------
+3:30 - 4:30 | International SE Talks II 
+------------ | -------------
 .. |  Software Developers' Work Habits and Expertise (Prof. Sebastian Baltes)
+.. |  Panel Discussion (How is SE unique to PNG?)
+------------ | -------------
+4:30 - 5:00 | Day 1 Wrap-up and Networking
+------------ | -------------
 
 **DAY 2 - Motupore Island Research Center: Conference Room.**
 
