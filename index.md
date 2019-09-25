@@ -134,6 +134,8 @@ Papua New Guinea used to be lesser-known to the world, but now it's rapidly open
 Our event is proudly sponsored by Oil Search, PNG DataCo, PNG Science and Technology Council Secretariat, Nasfund Papua New Guinea and PNG Digital ICT Cluster.
 
 <p float="right">
-  <img src="http://www.percom.org/Previous/ST2019/sites/default/files/inline-images/naist.jpg" width="200" /> 
-  <img src="http://www.upng.ac.pg/site/images/upngweb_image/upngLogo.png" width="200" />
+  <img src="http://www.percom.org/Previous/ST2019/sites/default/files/inline-images/naist.jpg" width="100" /> 
+  <img src="http://www.upng.ac.pg/site/images/upngweb_image/upngLogo.png" width="100" />
 </p>
+
+<img src="img/sponsor.PNG" alt="hi" class="inline"/>
