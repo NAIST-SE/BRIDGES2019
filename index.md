@@ -24,10 +24,8 @@ The workshop encourages the exchange of ideas within the local and international
 - University of Papua New Guinea
 - Papua New Guinea Science and Technology Secretariat
 - Papua New Guinea Digital Cluster
-- STEM
-- Pacific Adventist University
 - National High Schools
-
+- PNG ICT Specialists
 
 ## Organizers 
 - Raula Gaikovina Kula (Organizer, Nara Institute of Science and Technology)
