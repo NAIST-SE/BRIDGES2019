@@ -2,7 +2,7 @@
 
 ### 12th - 14th Sept. 2019
 
-<img src="img/background.jpg" alt="hi" class="inline"/>
+<img src="img/summary.jpg" alt="hi" class="inline"/>
 
 ## About
 The objective of the International Workshop on BRIdging Divides with Globally Engineered Software (BRIDGES) is to foster development by providing a forum where researchers and practitioners can report on and discuss issues and solutions to bridge the digital divide of information within a practical geographic-free global software engineering setting.
